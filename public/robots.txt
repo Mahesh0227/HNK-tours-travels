@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vizag-ride-luxury.lovable.app/sitemap.xml
